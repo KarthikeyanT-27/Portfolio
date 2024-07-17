@@ -389,21 +389,21 @@ img:hover{
     margin-left: 0px;
     font-size: small;
     margin-top: 150px;
-       
+    margin-left:-30px;
    }
    .skills{
     margin-left: -100px;
     margin-bottom: 10px;
     margin-top: 600px;
-    display:block;       
+    display:inline-block;       
    }
    .icon{
     
     margin-left: 0px;
        margin-left:-50px
    margin-top: 0px;
-       margin-top:-250px
-       margin-top:-50px
+       margin-top:-450px;
+       margin-top:-50px;
   
    }
    .overlay{
