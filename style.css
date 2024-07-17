@@ -96,7 +96,7 @@ img:hover{
 }
 .icon{
     gap: 10px;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 .skills{
     margin-left: 150px;
@@ -260,7 +260,7 @@ img:hover{
       margin: 0px;
       margin-top: -350px;
       display: inline-block;
-      margin-left: -400px;
+      margin-left: -100px;
    
         
     }
@@ -273,15 +273,21 @@ img:hover{
         margin-top: 50px;
         margin-left: -100px;
         text-align: start;
+        height:200px;
+        width:200px;
+        display:inline-block;
     }
     .skills{
         margin-top: 100px;
+        height:200px;
+        width:200px;
+        display:inline-block;
     }
     .overlay{
         opacity: 0.9999;
         position: absolute;
-        width: 100%;
-        height: 100%;
+        width: 2000px;
+        height: 2000px;
         background-image: url("./image/backround\ img.jpg");
         top: 0;
         left: 0;
@@ -391,7 +397,7 @@ img:hover{
     margin-left: 0px;
    margin-left: -180px;
    margin-top: 0px;
-   margin-top: -320px;
+   margin-top: 30px;
    }
    .overlay{
     width: 580px;
