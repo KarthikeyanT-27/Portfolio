@@ -215,7 +215,7 @@ const App = () => {
             <div className="relative w-full max-w-sm">
               <div className="aspect-square relative z-10 rounded-full border-[8px] border-white/5 overflow-hidden shadow-2xl bg-[#0a0a0a]">
                 <img 
-                  src="/src/assets/profile.jpeg" 
+                  src="/profile.jpeg" 
                   alt="Karthikeyan" 
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                   onError={(e) => { e.target.src = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800&q=80"}}
