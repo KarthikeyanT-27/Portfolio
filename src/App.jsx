@@ -218,7 +218,6 @@ const App = () => {
                   src="/profile.jpeg" 
                   alt="Karthikeyan" 
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
-                  onError={(e) => { e.target.src = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800&q=80"}}
                 />
               </div>
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-blue-600/10 blur-[100px] rounded-full -z-10"></div>
