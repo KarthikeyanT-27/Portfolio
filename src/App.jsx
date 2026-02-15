@@ -57,7 +57,7 @@ const App = () => {
     role: "Cybersecurity Engineer",
     email: "karthiksai9865@gmail.com",
     github: "https://github.com/KarthikeyanT-27",
-    linkedin: "https://www.linkedin.com/in/karthi-keyan-t-8513312a8/",
+    linkedin: "https://www.linkedin.com/in/karthikeyantsec",
     tryhackme: "https://tryhackme.com/p/KarthikeyanT",
     summary: "Cybersecurity Engineer-in-Training with hands-on experience in SecureCode AI and network defense. President of Rising Minds community. Ranked Top 10% on TryHackMe.",
     executiveSummary: "Cybersecurity is not just my field of study — it is what I actively build and defend. I have engineered a static code analysis tool to detect OWASP-aligned vulnerabilities, designed segmented enterprise network architectures, and developed reconnaissance automation to simulate real-world attack behavior. Through hands-on exposure to SIEM concepts, vulnerability assessment, secure coding, and network defense strategies, I have strengthened my ability to identify threats and implement structured mitigation mechanisms.          As Founder & President of Rising Minds, I promote cybersecurity awareness and continuous technical growth under the philosophy of Share • Learn • Grow. I am driven to contribute to security teams where analytical thinking, proactive defense, and resilience-building are essential.",
